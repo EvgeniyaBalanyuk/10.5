@@ -54,7 +54,7 @@ curl http://localhost:8088/ping
 
 _Ответ:_
 
-![](![alt text](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/config.png))
+![alt text](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/config.png)
 
 
-![](![alt text](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/localhost.png))
+![alt text](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/localhost.png)
